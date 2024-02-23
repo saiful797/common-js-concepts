@@ -5,7 +5,7 @@ Truthy:
 3. any string other than empty string
 4. '0', 'false'
 5. {}
-6. 
+6. []
 
 Falsy:
 1. false
